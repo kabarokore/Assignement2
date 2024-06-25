@@ -32,7 +32,7 @@ mobile programming class
   <img width="960" alt="signin" src="https://github.com/mugaboronald1/Assignement2/assets/99381533/250b9d75-65f1-4d4d-bc66-07ab2e4b7f53">
   
    Sign out
-  <img width="960" alt="signup" src="https://github.com/mugaboronald1/Assignement2/assets/99381533/df8a492f-79e9-417c-bf3d-f73387e57768
+  <img width="960" alt="signup" src="https://github.com/mugaboronald1/Assignement2/assets/99381533/df8a492f-79e9-417c-bf3d-f73387e57768">
      
   functional calculator
   <img width="960" alt="calculator" src="https://github.com/mugaboronald1/Assignement2/assets/99381533/dc5dea07-e6eb-4212-bcd2-d40a1fb444b6">
